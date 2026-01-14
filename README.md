@@ -1,4 +1,4 @@
-# Glen Muthoka
+# NAJIM UDDIN
 
 **Electrical & Electronics Engineering @ University of Southampton**  
 Specializing in embedded systems, digital design, and hardware-software integration
