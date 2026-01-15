@@ -4,10 +4,10 @@
 🤝 Let's collaborate and build something awesome!*  
 Specializing in embedded systems, digital design, and hardware-software integration
 
-[![Website](https://img.shields.io/badge/Website-glenmuthoka.com-00d9ff?style=flat&logo=google-chrome&logoColor=white)](https://glenmuthoka.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/glenmuthoka) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/bananz0)
-[![Email](https://img.shields.io/badge/Email-theglenmuthoka@gmail.com-ff006e?style=flat&logo=gmail&logoColor=white)](mailto:theglenmuthoka@gmail.com)
+[![Website](https://img.shields.io/badge/Website-najim.me-00d9ff?style=flat&logo=google-chrome&logoColor=white)](https://najim.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/najimuddin) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/imtiaznajim)
+[![Email](https://img.shields.io/badge/Email-imtiaznajim@gmail.com-ff006e?style=flat&logo=gmail&logoColor=white)](mailto:imtiaznajim@gmail.com)
 
 ---
 
