@@ -51,30 +51,6 @@ Developing flight software for CubeSats
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bananz0&theme=aura&show_icons=true&hide_border=true" height="160px" />
-       
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananz0&theme=aura&layout=compact&hide_border=true&hide=html,css" height="160px" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bananz0&theme=aura&no-frame=true&no-bg=true&margin-w=4&column=-1" height="160px" />
-</div>
-
----
-
-## Get in Touch
-
-- **LinkedIn:** [glenmuthoka](https://linkedin.com/in/glenmuthoka)
-- **Twitter:** [@bananz0](https://twitter.com/bananz0)
-- **Support my work:** [PayPal](https://paypal.me/bananz0)
-
----
-
 <div align="center">
 
 *Interested in embedded systems, digital design, or space technology? Open to collaborations and research opportunities.*
