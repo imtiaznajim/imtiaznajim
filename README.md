@@ -1,6 +1,7 @@
 # NAJIM UDDIN
 
-**Electrical & Electronics Engineering @ University of Southampton**  
+**💻 Full-stack web developer with 10+ years of experience in PHP, Laravel, JavaScript, React, Vue.js, and custom software development.
+🤝 Let's collaborate and build something awesome!*  
 Specializing in embedded systems, digital design, and hardware-software integration
 
 [![Website](https://img.shields.io/badge/Website-glenmuthoka.com-00d9ff?style=flat&logo=google-chrome&logoColor=white)](https://glenmuthoka.com)
